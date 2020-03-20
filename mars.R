@@ -2,4 +2,4 @@
 mars_temp <-(temperatures.csv)
 plot(mars.R)
 Mars temp
-
+mars function
